@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/nukhugama"><img src="https://img.shields.io/github/followers/nukhugama?label=Follow&style=social"></a>
-  <a href="mailto:nukhugama20.com"><img src="https://img.shields.io/badge/-Contact%20Me-333333?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:nukhugama20@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-333333?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
