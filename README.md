@@ -11,7 +11,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-  I am imiã - I am currently learning and passionate about web development, data analysis, and machine learning with a love for building beautiful and functional applications. I enjoy working with a variety of technologies and continuously learning new things.
+  I am Simião - I am currently learning and passionate about web development, data analysis, and machine learning with a love for building beautiful and functional applications. I enjoy working with a variety of technologies and continuously learning new things.
 </p>
 
 <h2 align="center">🛠 Technologies & Tools</h2>
