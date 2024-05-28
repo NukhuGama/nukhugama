@@ -23,7 +23,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
   <img src="https://img.shields.io/badge/-Matlab-000?&logo=Matlab">
 </p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nukhugama&show_icons=true&locale=en&layout=compact" alt="NukhuGama" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nukhugama&" alt="NukhuGama" /></p>
 <h2 align="center">🤝 Looking to Collaborate</h2>
 <p align="center">
   I am looking to collaborate with others on open source projects. Feel free to reach out if you have any interesting projects!
