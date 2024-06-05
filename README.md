@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/nukhugama"><img src="https://img.shields.io/github/followers/nukhugama?label=Follow&style=social"></a>
-  <a href="mailto:nukhugama20.com"><img src="https://img.shields.io/badge/-Contact%20Me-333333?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:nukhugama20@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-333333?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-  I am imiã - I am currently learning and passionate about web development, data analysis, and machine learning with a love for building beautiful and functional applications. I enjoy working with a variety of technologies and continuously learning new things.
+  I am Simião - I am currently learning and passionate about web development, data analysis, and machine learning with a love for building beautiful and functional applications. I enjoy working with a variety of technologies and continuously learning new things.
 </p>
 
 <h2 align="center">🛠 Technologies & Tools</h2>
@@ -23,7 +23,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
   <img src="https://img.shields.io/badge/-Matlab-000?&logo=Matlab">
 </p>
-
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nukhugama&show_icons=true&locale=en&layout=compact" alt="NukhuGama" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nukhugama&" alt="NukhuGama" /></p>
 <h2 align="center">🤝 Looking to Collaborate</h2>
 <p align="center">
   I am looking to collaborate with others on open source projects. Feel free to reach out if you have any interesting projects!
@@ -32,6 +33,10 @@
 <h2 align="center">📫 How to reach me</h2>
 <p align="center">
   <a href="mailto:nukhugama20@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=white"></a>
+</p>
+<p align="center">
+  Reach out my Portofolio <a href="https://nukhudigital.online">Here</a>
+
 </p>
 
 
