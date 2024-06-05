@@ -32,7 +32,6 @@
 <h2 align="center">📫 How to reach me</h2>
 <p align="center">
   <a href="mailto:nukhugama20@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=white"></a>
- 
 </p>
 
 
