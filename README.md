@@ -25,9 +25,10 @@
 </p>
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nukhugama&show_icons=true&locale=en&layout=compact" alt="NukhuGama" /></p>
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nukhugama&" alt="NukhuGama" /></p>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nukhugama&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/nukhugama/github-readme-stats" alt="NukhuGama" /></p>
+
 <h2 align="center">🤝 Looking to Collaborate</h2>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nukhugama&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/nukhugama/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nukhugama&layout=compact&theme=dark)](https://github.com/nukhugama/github-readme-stats)
+
 <p align="center">
   I am looking to collaborate with others on open source projects. Feel free to reach out if you have any interesting projects!
 </p>
