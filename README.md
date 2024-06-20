@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/badge/-Matlab-000?&logo=Matlab">
 </p>
 
-![Simiao github stat](https://github-readme-stats.vercel.app/api?username=nukhugama&show_icons=true&hide_border=true&theme=dark)
-![Simiao top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nukhugama&layout=compact&hide_border=true&theme=dark)
+<p align="center"> ![Simiao github stat](https://github-readme-stats.vercel.app/api?username=nukhugama&show_icons=true&hide_border=true&theme=dark) </p>
+<p align="center"> ![Simiao top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nukhugama&layout=compact&hide_border=true&theme=dark) </p>
 <br>
 <p  align="center"><img text-align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=nukhugama&" alt="NukhuGama" /></p>
 <!-- <p  align="center"><img text-align="justify" src="https://github-readme-stats.vercel.app/api?username=nukhugama&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/nukhugama/github-readme-stats" alt="NukhuGama" /></p> -->
