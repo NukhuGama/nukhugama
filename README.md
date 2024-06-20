@@ -25,7 +25,7 @@
 </p>
 
 <p align="center"> 
-  <img text-align="justify" src="https://github-readme-stats.vercel.app/api?username=nukhugama&show_icons=true&hide_border=true&theme=dark" alt="NukhuGama" /> 
+  <img text-align="justify" src="https://github-readme-stats.vercel.app/api?username=nukhugama&show_icons=true&hide_border=true&theme=vue" alt="NukhuGama" /> 
   <img text-align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukhugama&hide_border=true&theme=dark" />
 </p>
 <!-- <br> -->
