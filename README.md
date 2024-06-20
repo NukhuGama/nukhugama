@@ -24,10 +24,10 @@
   <img src="https://img.shields.io/badge/-Matlab-000?&logo=Matlab">
 </p>
 
-<p align="center"> <img text-align="justify" src="https://github-readme-stats.vercel.app/api?username=NukhuGama&show_icons=true&hide_border=true&theme=dark alt="NukhuGama" </p>
-<p align="center"> <img text-align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NukhuGama&layout=compact&hide_border=true&theme=dark alt="NukhuGama" </p>
+<p align="center"> <img text-align="justify" src="https://github-readme-stats.vercel.app/api?username=nukhugama&show_icons=true&hide_border=true&theme=dark alt="NukhuGama" </p>
+<p align="center"> <img text-align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukhugama&layout=compact&hide_border=true&theme=dark alt="NukhuGama" </p>
 <br>
-<p  align="center"><img text-align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=NukhuGama&" alt="NukhuGama" /></p>
+<p  align="center"><img text-align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=nukhugama&" alt="NukhuGama" /></p>
 <!-- <p  align="center"><img text-align="justify" src="https://github-readme-stats.vercel.app/api?username=nukhugama&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/nukhugama/github-readme-stats" alt="NukhuGama" /></p> -->
 
 <h2 align="center">🤝 Looking to Collaborate</h2>
