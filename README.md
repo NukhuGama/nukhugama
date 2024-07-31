@@ -45,7 +45,7 @@
   <a href="mailto:nukhugama20@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=white"></a>
 </p>
 <p align="center">
-  Reach out my Portofolio <a href="https://nukhudigital.online"style="target="_blank"">Here</a>
+  Reach out my Portofolio <a href="https://simiao-porto.vercel.app/"style="target="_blank"">Here</a>
 
 </p>
 
